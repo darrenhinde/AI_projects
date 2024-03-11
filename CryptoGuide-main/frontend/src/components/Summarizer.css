@@ -1,0 +1,60 @@
+.summarizer-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    max-width: 800px; /* Limit the width for better readability */
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px; /* Add space between rows */
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 15px;
+    background-color: #ffffff; /* Solid background for cells */
+    text-align: left;
+    border-radius: 6px; /* Rounded corners for cells */
+}
+
+th {
+    position: sticky;
+    top: 0;
+    background-color: #0062cc;
+    color: #ffffff;
+    font-size: 16px;
+    user-select: none;
+}
+
+td {
+    font-size: 14px;
+    color: #333; /* Darker text for better readability */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+tr:hover td {
+    background-color: #f2f2f2;
+    cursor: pointer;
+    transform: scale(1.01); /* Slight scale-up effect on hover */
+    transition: transform 0.3s ease-in-out, background-color 0.2s ease;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .summarizer-container {
+        padding: 15px;
+    }
+
+    th, td {
+        padding: 12px;
+    }
+
+    th:first-child, td:first-child, th:last-child, td:last-child {
+        width: auto; /* Adjust column widths for smaller screens */
+    }
+}

@@ -1,0 +1,49 @@
+.tree-map-container {
+    font-family: 'Arial', sans-serif;
+    position: relative;
+  }
+  
+  .tree-map-svg {
+    display: block;
+    margin: auto;
+  }
+  
+  .tree-node text {
+    pointer-events: none;
+    fill: #fff;
+    font-size: 12px;
+    text-shadow: 1px 1px 0 #000;
+  }
+  
+  .tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 8px;
+    font-size: 14px;
+    background: rgba(0, 0, 0, 0.85);
+    color: #fff;
+    border-radius: 4px;
+    pointer-events: none; /* Ignore pointer events */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Add this to TreeMapComponent.css */
+.rect-hover:hover {
+    stroke: #555;
+    stroke-width: 2px;
+    cursor: pointer;
+  }
+  
+  /* Add some additional styling to handle the responsive design */
+  @media (max-width: 768px) {
+    .tree-map-svg {
+      width: 100%;
+      height: auto;
+    }
+    
+    .tree-node text {
+      font-size: 10px; /* Smaller font size for smaller screens */
+    }
+  }
+  

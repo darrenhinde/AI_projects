@@ -1,0 +1,8 @@
+d3
+react-router-dom
+react-bootstrap
+react-intersection-observer
+react-scripts
+axios
+#-g typescript
+#-g ts-node

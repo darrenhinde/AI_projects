@@ -1,0 +1,44 @@
+{
+    "cryptocurrencies": {
+    "Bitcoin": {
+    "sentiment_score": 8,
+    "summary": "Bitcoin is holding strong above $61,000 despite the selling pressure from Grayscale. With metrics indicating a potential 1900% gain and the stock-to-flow model suggesting a bullish market, Bitcoin is poised for further growth. Market value: Moving sideways with potential for a new leg up."
+    },
+    "Shiba Inu": {
+    "sentiment_score": 7,
+    "summary": "Shiba Inu experienced significant price movements, up 80-70% recently, alongside other meme coins. While caution is advised due to volatility, having a small allocation in the portfolio could yield high returns if the coin continues to gain traction. Market value: Highly volatile but experiencing upward movement."
+},
+    "Floki Inu": {
+    "sentiment_score": 6,
+    "summary": "Floki Inu saw a substantial increase, exceeding 100% in a single day. The proposed 2% burn proposal adds to its appeal. Caution is advised due to potential volatility, but it remains an attractive option for short-term gains. Market value: Subject to high volatility but showing potential for growth."
+    },
+    "Cockapoo": {
+    "sentiment_score": 5,
+    "summary": "Cockapoo, despite its name, is gaining traction with a significant market cap close to its previous all-time high. As one of the biggest meme coins on Avalanche, it's experiencing upward momentum. While it's relatively new, it's showing promise for growth. Market value: Rising steadily with room for expansion."
+    },
+    "Kimbo": {
+    "sentiment_score": 7,
+    "summary": "Kimbo, a relatively new meme coin on Avalanche, is performing well with a notable increase. While its market cap is smaller compared to others, its recent growth indicates potential for further appreciation. Market value: Rapidly increasing with room for further expansion."
+    },
+    "Snack": {
+    "sentiment_score": 6,
+    "summary": "Snack, a meme coin from Cardano, has seen recent price movements and a proposal for a 7% deflationary burn. While caution is advised due to the volatility of meme coins, Snack shows potential for short-term gains. Market value: Experiencing fluctuations but showing signs of upward momentum."
+    },
+    "SUKA": {
+    "sentiment_score": 6,
+    "summary": "SUKA, backed by Phil Russell, has shown significant gains recently. With a rise of 9% in a day and 129% in a week, it's attracting attention. However, further research is advised before investing due to its recent surge in value. Market value: Subject to rapid changes but showing strong growth potential."
+    },
+    "Pepe": {
+    "sentiment_score": 5,
+    "summary": "Pepe, despite losing momentum initially, has gained traction in the last 7 days with a notable increase in market cap. While it's experienced fluctuations, it's showing signs of recovery and potential for growth. Market value: Recovering from previous losses with potential for further appreciation."
+    },
+    "Bonk": {
+    "sentiment_score": 5,
+    "summary": "Bonk, while experiencing a slight decrease today, saw a significant increase in the past week. With a market cap of 1.7 billion in the last 7 days, it's regaining momentum and showing potential for further growth. Market value: Recuperating from recent losses with room for expansion."
+    },
+    "WETH": {
+    "sentiment_score": 4,
+    "summary": "Wrapped Ether (WETH) is seeing notable gains, up 19% today and 271% in the last 7 days. While it's experiencing rapid growth, caution is advised due to potential market fluctuations. Further research is recommended before investing. Market value: Subject to high volatility with potential for growth."
+    }
+    }
+    }
